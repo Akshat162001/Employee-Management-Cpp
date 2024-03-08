@@ -11,7 +11,7 @@ A simple C++ program for managing employee!
 5. Delete Employee
 
 ---
-The code first creates a vector called employees to store the employee data. The Employee structure is used to store the employee data. It has the following members:
+The code first creates a vector called employees to store the employee data. The Employee structure is used to store the Employee data. It has the following members:
 
     name: The employee's name
     age: The employee's age
