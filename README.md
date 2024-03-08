@@ -2,7 +2,6 @@
 
 A simple C++ program for managing employee!
 
-
 ---
 
 <h3>Features:</h3> 
